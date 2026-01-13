@@ -1,0 +1,26 @@
+# Windows
+desktop.ini
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+~$*
