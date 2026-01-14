@@ -52,12 +52,23 @@ Horizontal 16:9 composition.
 
     "onoff": f"""
 {STYLE_PREFIX}
-Split image composition showing contrast:
-LEFT SIDE (OFF - casual): Cozy home scene, oversized cream sweater, comfortable,
-relaxed on a sofa, soft morning light, peaceful.
-RIGHT SIDE (ON - dressed up): Same style woman dressed for a date, soft pink dress,
-light makeup, confident, evening ambiance.
-Clear visual contrast between casual and dressed-up looks.
+Fashion comparison image split vertically in half.
+
+LEFT SIDE "OFF" (daily casual): Young Asian woman, early 20s, long wavy black hair,
+wearing oversized soft beige knit sweater and simple white pants.
+Relaxed natural pose on a cozy sofa. Soft neutral warm tones. Peaceful home atmosphere.
+
+RIGHT SIDE "ON" (special occasion): Same young Asian woman with long wavy black hair,
+wearing soft pink puff-sleeve blouse and white layered ruffle skirt.
+Confident feminine pose. Romantic pastel pink tones. Ready for a date.
+
+High-end Korean fashion editorial, Vogue Korea style.
+Shot on Contax T2 film camera, 35mm film grain.
+Natural golden hour or soft window light.
+Miu Miu / Brandy Melville / gentle feminine aesthetic.
+Magazine quality, elegant, NOT cheesy or AI-looking.
+Clean minimal background.
+Add small text "OFF" on left side and "ON" on right side.
 Horizontal 16:9 composition.
 """,
 
