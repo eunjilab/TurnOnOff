@@ -1,3 +1,15 @@
+# API 키가 포함된 Python 파일들 제외
+*.py
+
+# 환경 변수
+.env
+*.env
+
+# 비밀 정보
+secrets.md
+*_secrets.md
+*API*.md
+
 # Windows
 desktop.ini
 Thumbs.db
@@ -13,6 +25,8 @@ ehthumbs.db
 .vscode/
 *.swp
 *.swo
+__pycache__/
+*.pyc
 
 # Node
 node_modules/
